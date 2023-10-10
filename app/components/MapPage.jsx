@@ -1381,16 +1381,6 @@ const MapPage = () => {
                 </Marker>
               ))}
             </MapContainer>
-
-            {/* {allMemories !== "undefined" ? (
-              <Map data={allMemories} />
-            ) : (
-              <Map data={[]} />
-            )}
-            <Map data={[]} /> */}
-            {/* {allMemories !== undefined ? (
-              <Map data={allMemories} isOpen={handleEditForm} />
-            ) : null} */}
           </div>
         </div>
       </div>
