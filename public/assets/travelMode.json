@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "plane"
+  },
+  {
+    "id": 2,
+    "name": "bus"
+  },
+  {
+    "id": 3,
+    "name": "train"
+  }
+]
